@@ -1,0 +1,19 @@
+# online_store
+
+This website site for online nursery system.
+
+Where user can register and login.Then he or she can order the plants.
+
+Admin can upload the image,name,category and description of the plants.Including user details.
+
+#Working process
+
+For backend i used django REST framework and for Frontend React.
+
+I have included the all the requirenment in Pipfile.Ussing this you can download.
+
+i have used pipenv virtual environment.
+
+By creating virtual environment you can download all the requirenments.
+
+For frontend i have uploaded folder in 
