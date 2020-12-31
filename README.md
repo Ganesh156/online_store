@@ -23,8 +23,8 @@ For frontend reqirenments are in packeg.json file.
 
 2. And to run both backend and frontend you need to run the command "python manage.py runserver" and "npm start" in diffrent terminal.
 
-3.For admin to login use email--ganicoit1992@gmail.com, password:1234
+  3.For admin to login use email--ganicoit1992@gmail.com, password:1234
 
-4.Then perform related operation.
+  4.Then perform related operation.
 
 Enjoy shoping.....
