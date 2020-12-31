@@ -16,7 +16,7 @@ i have used pipenv virtual environment.
 
 By creating virtual environment you can download all the requirenments.
 
-For frontend i have uploaded folder in this link---->https://github.com/Ganseh/online_strore_frontend So using this link you can download.
+For frontend i have uploaded folder in this link---->https://github.com/Ganseh/online_strore_frontend (Beacuse of uploading problem i make diffrent repository) So using this link you can download.
 For frontend reqirenments are in packeg.json file.
 
 1. Structuring the project you need to put in same folder which includes frontend and backend.
